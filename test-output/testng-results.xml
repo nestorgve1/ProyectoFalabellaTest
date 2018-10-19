@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50822" started-at="2018-10-16T00:25:30Z" finished-at="2018-10-16T00:26:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50822" started-at="2018-10-16T00:25:30Z" finished-at="2018-10-16T00:26:20Z">
+      <class name="com.selenium.test.Test01">
+        <test-method status="PASS" signature="getDriver()[pri:0, instance:com.selenium.test.Test01@4678c730]" name="getDriver" is-config="true" duration-ms="6777" started-at="2018-10-15T21:25:30Z" finished-at="2018-10-15T21:25:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method status="PASS" signature="PrimeraCompra()[pri:0, instance:com.selenium.test.Test01@4678c730]" name="PrimeraCompra" duration-ms="33219" started-at="2018-10-15T21:25:36Z" finished-at="2018-10-15T21:26:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrimeraCompra -->
+        <test-method status="PASS" signature="teardownTest()[pri:0, instance:com.selenium.test.Test01@4678c730]" name="teardownTest" is-config="true" duration-ms="10810" started-at="2018-10-15T21:26:10Z" finished-at="2018-10-15T21:26:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownTest -->
+      </class> <!-- com.selenium.test.Test01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
