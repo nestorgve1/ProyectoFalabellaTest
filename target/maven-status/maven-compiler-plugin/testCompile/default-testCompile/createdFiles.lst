@@ -1,0 +1,10 @@
+com\selenium\page\HomePage.class
+com\selenium\page\PaymentMethodPage.class
+com\selenium\test\Test01.class
+com\selenium\page\HomeUserLogInPage.class
+com\selenium\page\SesionPage.class
+com\selenium\page\PurchageSumaryPage.class
+com\selenium\test\Test_Estructurado_prueba.class
+com\selenium\config\BaseConfig.class
+com\selenium\page\DescSkuPage.class
+com\selenium\page\HomeDeliveryPage.class

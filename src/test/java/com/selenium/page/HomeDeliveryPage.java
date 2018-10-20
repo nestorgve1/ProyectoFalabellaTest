@@ -19,7 +19,7 @@ public class HomeDeliveryPage extends BaseConfig{
 	/*declaramos los elementos a utilizar*/
 	@FindBy (xpath = "(//*[@class='fbra_button fbra_test_button fbra_componentCheckoutAddressBook__useAddressButton fbra_test_componentCheckoutAddressBook__useAddressButton'])[1]")
 	private WebElement addHomeDelivery;
-	@FindBy (xpath = "(//div[@class='fbra_radioOption fbra_test_radioOption fbra_dateTimeDeliverySlot__slot fbra_test_dateTimeDeliverySlot__slot'])[5]")
+	@FindBy (xpath = "(//div[@class='fbra_radioOption fbra_test_radioOption fbra_dateTimeDeliverySlot__slot fbra_test_dateTimeDeliverySlot__slot'])[1]")
 	private WebElement selectDate;
 	@FindBy (xpath = "(//*[@class='fbra_button fbra_checkoutComponentDeliveryActions__continueToSecurePaymentButton fbra_test_checkoutComponentDeliveryActions__continueToSecurePaymentButton'])")
 	private WebElement continuebtn;
