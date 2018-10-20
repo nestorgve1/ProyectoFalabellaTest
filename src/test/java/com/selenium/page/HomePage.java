@@ -28,5 +28,6 @@ public class HomePage extends BaseConfig {
 		openwindowssesionbtn.click(); //hacemos click en el elemento.
 		gotoinisesion.click(); //hacemos click en el elemento.
 		return new SesionPage(driver);
+		//prueba de comentario
 	} 
 }
